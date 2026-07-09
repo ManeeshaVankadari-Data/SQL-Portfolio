@@ -8,7 +8,9 @@ Welcome to my SQL project portfolio. This repository serves as a practical showc
 
 * **`SQL-Syntax-Reference/`**
     * `parks_and_rec_queries.sql`: A master script built on a relational database model to demonstrate comprehensive SQL capabilities from fundamental data retrieval to advanced programmatic automation.
-* **`Project-2-Data-Cleaning/`** *(Coming Soon)*
+* **`Project-2-Data-Cleaning/`** 
+    * `layoffs_data_cleaning.sql`: A complete data cleaning and standardization project using a global layoffs dataset. This project handles real-world data issues such as row deduplication via CTEs, text trimming, date formatting conversion, NULL value backfilling via self-joins, and data reduction.
+    * `layoffs.csv`: The raw dataset used for the project.
 * **`Project-3-Data-Exploration/`** *(Coming Soon)*
 
 ---
